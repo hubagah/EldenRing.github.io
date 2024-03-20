@@ -1,0 +1,20 @@
+button{
+    text-align: center;
+    color: #fdfaad;
+    background-color: #182d2a;
+    width: 250px;
+    height: 100px;
+    
+}
+#goToSteam{
+    margin-left: 500px;
+    
+    text-align: center;
+    color: #fdfaad;
+}
+body{
+    background-image: linear-gradient(#0e316b, #29504b);
+    margin:1px;
+    height: 110vh;
+    width: 95vw;
+}
